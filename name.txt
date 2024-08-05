@@ -1,1 +1,1 @@
-"Name = Fares" 
+Name = Fares
